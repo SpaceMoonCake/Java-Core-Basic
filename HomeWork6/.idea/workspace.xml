@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d82c8e4-7baa-406c-a811-8a171bcc6540" name="Default Changelist" comment="" />
+    <list default="true" id="9ffeb41f-9a7e-4fb1-95a0-58a3fc7f206a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,21 +35,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1med7I8TnF1nfFtSACeSt20YfTF" />
+  <component name="ProjectId" id="1mqUFbF9apRIU15l31uvKZdo3kW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz5.Main" />
-      <module name="HomeWork5" />
+    <configuration name="HoweWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz6.HoweWork" />
+      <module name="HomeWork6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz5.*" />
+          <option name="PATTERN" value="dz6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,18 +62,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HoweWork" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5d82c8e4-7baa-406c-a811-8a171bcc6540" name="Default Changelist" comment="" />
-      <created>1609857823544</created>
+      <changelist id="9ffeb41f-9a7e-4fb1-95a0-58a3fc7f206a" name="Default Changelist" comment="" />
+      <created>1610220516143</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1609857823544</updated>
+      <updated>1610220516143</updated>
     </task>
     <servers />
   </component>
@@ -84,36 +87,36 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="605" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1610197812522">
+    <state x="280" y="7" key="#Project_Structure" timestamp="1610220724621">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="605" y="148" key="#com.intellij.ide.util.MemberChooser/62.0.1474.864@62.0.1474.864" timestamp="1610197812522" />
-    <state x="580" y="174" key="FileChooserDialogImpl" timestamp="1610220505332">
+    <state x="280" y="7" key="#Project_Structure/62.0.1474.864@62.0.1474.864" timestamp="1610220724621" />
+    <state width="1431" height="2" key="GridCell.Tab.0.bottom" timestamp="1610287133559">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="580" y="174" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1610220505332" />
-    <state width="1431" height="290" key="GridCell.Tab.0.bottom" timestamp="1610199506919">
+    <state width="1431" height="2" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1610287133559" />
+    <state width="1431" height="2" key="GridCell.Tab.0.center" timestamp="1610287133559">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="290" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1610199506919" />
-    <state width="1431" height="290" key="GridCell.Tab.0.center" timestamp="1610199506915">
+    <state width="1431" height="2" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1610287133559" />
+    <state width="1431" height="2" key="GridCell.Tab.0.left" timestamp="1610287133558">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="290" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1610199506915" />
-    <state width="1431" height="290" key="GridCell.Tab.0.left" timestamp="1610199506915">
+    <state width="1431" height="2" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1610287133558" />
+    <state width="1431" height="2" key="GridCell.Tab.0.right" timestamp="1610287133559">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="290" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1610199506915" />
-    <state width="1431" height="290" key="GridCell.Tab.0.right" timestamp="1610199506915">
+    <state width="1431" height="2" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1610287133559" />
+    <state x="456" y="197" key="run.anything.popup" timestamp="1610228310040">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="290" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1610199506915" />
-    <state x="240" y="53" key="new project wizard" timestamp="1610220511640">
-      <screen x="62" y="0" width="1474" height="864" />
-    </state>
-    <state x="240" y="53" key="new project wizard/62.0.1474.864@62.0.1474.864" timestamp="1610220511640" />
+    <state x="456" y="197" key="run.anything.popup/62.0.1474.864@62.0.1474.864" timestamp="1610228310040" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HomeWork6$HoweWork.ic" NAME="HoweWork Coverage Results" MODIFIED="1610286898227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>dz6.*</FILTER>
+    </SUITE>
   </component>
 </project>
